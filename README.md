@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex Tobi
+- 👋 Hi, I’m @Alex Tobi (Toblex1000)
 - 👀 I’m interested in python and data science
 - 🌱 I’m currently learning data science on datacamp and anywhere else I can find resource.
 - 💞️ I’m looking to collaborate on beginner project on python and data science
